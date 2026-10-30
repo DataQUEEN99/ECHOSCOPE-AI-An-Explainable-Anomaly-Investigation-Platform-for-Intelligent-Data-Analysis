@@ -1,0 +1,2 @@
+# ECHOSCOPE-AI-An-Explainable-Anomaly-Investigation-Platform-for-Intelligent-Data-Analysis
+ECHOSCOPE AI is a machine learning-powered platform designed to identify unusual patterns, detect anomalies, and investigate hidden insights in structured datasets. It combines Isolation Forest and Local Outlier Factor algorithms with data-quality profiling, feature-deviation analysis, and interactive visualizations. 
